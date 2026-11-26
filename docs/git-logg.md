@@ -48,10 +48,10 @@ Röda dagar: stängt
 ```
 
 Fråga: Vad betyder `<<<<<<< HEAD`, `=======` och `>>>>>>> grennamn`?
-
+Vid en merge-konflikt så signalerar och avgränsar det raderna som är i konflikt, och visar vilken som hör till vilken version.
 
 Hur löste du den, och varför blev det så?
-
+Jag ersatte bägge med en ny tid, för jag brydde mig inte om att välja mellan dem.
 
 ## 4. Ångra
 Vad är skillnaden mellan `git restore`, `git revert` och `git reset`? Vilken är säkrast när ändringen redan är pushad?
