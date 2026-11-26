@@ -35,7 +35,16 @@ En fast-forward uppdaterar en gren till en annan, en merge harmoniserar ändring
 Klistra in filen med konfliktmarkörerna, precis som den såg ut innan du löste den:
 
 ```
-(klistra in)
+# Öppettider
+
+Vardagar: 07–18
+<<<<<<< HEAD
+Helger: 10–17
+=======
+Helger: 09–18
+>>>>>>> oppettider-sommar
+Röda dagar: stängt
+
 ```
 
 Fråga: Vad betyder `<<<<<<< HEAD`, `=======` och `>>>>>>> grennamn`?
