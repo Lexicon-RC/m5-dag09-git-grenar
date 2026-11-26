@@ -55,7 +55,7 @@ Jag ersatte bägge med en ny tid, för jag brydde mig inte om att välja mellan 
 
 ## 4. Ångra
 Vad är skillnaden mellan `git restore`, `git revert` och `git reset`? Vilken är säkrast när ändringen redan är pushad?
-
+Git restore tar bort ocommittade ändringar, git revert tar bort ändringar men behåller historiken, och git reset tar tillbaka grenen till en tidigare tidpunkt och raderar alla ändringar efter den tidpunkten. Git revert är därmed säkrast för att ångra pushade ändringar.
 
 ## 5. Pull request
 Länk till din pull request (på ditt eget repo):
