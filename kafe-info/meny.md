@@ -1,7 +1,7 @@
 # Meny
 
-- Kardemummabulle, 35 kr
-- Bryggkaffe, 32 kr
-- Ostmacka, 59 kr
-- Latte, 45 kr
-- Kanelbulle, 33 kr
+- Kardemummabulle, 35000 kr
+- Bryggkaffe, 32000 kr
+- Ostmacka, 59000 kr
+- Latte, 45000 kr
+- Kanelbulle, 33000 kr
